@@ -1,0 +1,3 @@
+/mnt/c/Users/shoro/Desktop/MAI/2course/oop/lab8/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/shoro/Desktop/MAI/2course/oop/lab8/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/shoro/Desktop/MAI/2course/oop/lab8/build/CMakeFiles/run.dir
