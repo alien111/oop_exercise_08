@@ -50,7 +50,7 @@ void Executor::notify(std::shared_ptr<Task> task) {
 	
 	for(const auto& subscriber : subscribers) {
 		
-		task -> getData()[0] -> print(std::cout);
+		//task -> getData()[0] -> print(std::cout);
 		subscriber -> print(task);
 		
 	}
